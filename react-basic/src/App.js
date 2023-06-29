@@ -9,7 +9,7 @@ import ReportComponent from './component/ReportComponent';
 
 
 
-const Title = () => <h1>บัญชีรายรับ - รายจ่าย Test Git</h1>
+const Title = () => <h1>บัญชีรายรับ - รายจ่าย Git Test</h1>
 
 function App() {
 //   const initdata = [
